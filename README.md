@@ -26,16 +26,13 @@ DatatableApp is a Django-based web application designed to dynamically display t
 
 ---
 
-
----
-
 ## 📸 Screenshots
 
 ### 📍 Homepage with Datatable  
-![](https://titoluthi.pythonanywhere.com/static/screenshot_home.png)
+<img width="913" alt="image" src="https://github.com/user-attachments/assets/1e0504e2-7ea9-4428-9f0d-4e916f42611f" />
 
 ### 📍 Graph View with Modal  
-![](https://titoluthi.pythonanywhere.com/static/screenshot_graph.png)
+<img width="923" alt="image" src="https://github.com/user-attachments/assets/3c5a1744-5193-47c7-891b-95f9d808f50a" />
 
 ---
 
@@ -91,6 +88,6 @@ Contributions are welcome! Feel free to fork the repository, submit issues, or m
 
 ## 🙋‍♂️ Author
 
-💼 GitHub: @QiRi92
+💼 GitHub: [QiRi92](https://github.com/QiRi92)
 
 ⭐️ If you like this project, give it a star and share it with others!
